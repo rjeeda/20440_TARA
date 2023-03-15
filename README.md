@@ -15,22 +15,28 @@ Citation: "Structure and function of the global ocean microbiome" by Sunagawa, C
 ## Folder structure:
 
 data
-- raw
-    raw datasets as downloaded from the Tara Oceans paper companion website 
-- clean
-    renamed datasets saved in .csv format, compatible with analysis tools like pandas
+    - raw
+        - raw datasets as downloaded from the Tara Oceans paper companion website 
+    - clean
+        - renamed datasets saved in .csv format, compatible with analysis tools like pandas
 plots
-  all plots generated from plotting scripts
+        - all plots generated from plotting scripts
 plotting_scripts
- scripts used to generate plots
+        - scripts used to generate plots
 processing_scripts
- scripts used to process and clean data when necessary
+        - scripts used to process and clean data when necessary
+ 
  
 ## Installation:
 
 The following packages should be installed for running both the plotting scripts and processing scripts (also found in requirements.txt):
 
+python==3.8.11 
+
 biom_format==2.1.14
+
 bokeh==2.3.3
+
 numpy==1.22.4
+
 pandas==1.3.2
