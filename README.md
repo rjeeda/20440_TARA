@@ -13,7 +13,7 @@ Citation: "Structure and function of the global ocean microbiome" by Sunagawa, C
 
 
 ## Figure guide:
-- ```cyanobacteria_vs_temp.png```
+- ```plots/cyanobacteria_vs_temp.png```
     - Calculate the percent of reads for each sample that are classified to the phylum Cyanobacteria by dividing total Cyanobacteria OTU counts by total counts for each sample. Plot against temperature for each sample and color by sampling location.
     - Generated using: ```plotting_scripts/EDA.ipynb```
     - Necessary data: ```data/clean/companion_table_W1.csv, data/clean/nutrient_temp_table.csv, data/clean/taxonomic_profiles.csv```
