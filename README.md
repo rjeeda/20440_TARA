@@ -14,6 +14,7 @@ Citation: "Structure and function of the global ocean microbiome" by Sunagawa, C
 
 ## Folder structure:
 
+```
 .
 ├── data
 │   ├── raw
@@ -26,6 +27,7 @@ Citation: "Structure and function of the global ocean microbiome" by Sunagawa, C
 │   └── jupyter notebooks used to explore data and generate plots
 └── processing_scripts
     └── all other scripts used to process data
+ ```
  
 ## Installation:
 
