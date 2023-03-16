@@ -16,15 +16,25 @@ Citation: "Structure and function of the global ocean microbiome" by Sunagawa, C
 
 .
 ├── data
+
 │   ├── raw
+
 │   │   └── raw datasets as downloaded from the Tara Oceans paper companion website
+
 │   └── clean
-│       └── renamed datasets saved in .csv format  
+
+│       └── renamed datasets saved in .csv format 
+
 ├── plots
+
 │   └── all plots generated from data
+
 ├── plotting_scripts
+
 │   └── jupyter notebooks used to explore data and generate plots
+
 └── processing_scripts
+
     └── all other scripts used to process data
  
 ## Installation:
