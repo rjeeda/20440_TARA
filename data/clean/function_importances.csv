@@ -1,0 +1,49 @@
+Function,p_value,Model
+Amino acid metabolism and transport,0.20502900447993688,Latitude
+Energy production and conversion,0.2686193493093243,Latitude
+Cell cycle control and mitosis,0.27103917610812317,Latitude
+Coenzyme metabolism,0.40726368565798843,Latitude
+Nucleotide metabolism and transport,0.239383629585183,Longitude
+Coenzyme metabolism,0.31457027308260466,Longitude
+Secondary structure,0.27842448790922114,Longitude
+Amino acid metabolism and transport,0.3362334580526829,Longitude
+Cell wall/membrane/envelope biogenesis,0.13159118716801155,Depth (m)
+Cell motility,0.29576377618557126,Depth (m)
+Transcription,0.3816581958379979,Depth (m)
+Inorganic ion transport and metabolism,0.4133721593734466,Depth (m)
+Cell wall/membrane/envelope biogenesis,0.1789742801094497,Temperature (°C)
+Cell motility,0.33527267873469574,Temperature (°C)
+Nucleotide metabolism and transport,0.30710324693509056,Temperature (°C)
+Amino acid metabolism and transport,0.13803280624235453,Temperature (°C)
+Secondary structure,0.15940194062353835,Salinity (PSU)
+Carbohydrate metabolism and transport,0.2705762425338607,Salinity (PSU)
+Lipid metabolism,0.3068265868239076,Salinity (PSU)
+Chromatin structure and dynamics,0.33124626780731076,Salinity (PSU)
+Cell motility,0.020567570463461637,Oxygen (µmol/kg)
+Amino acid metabolism and transport,0.2900989934042689,Oxygen (µmol/kg)
+Energy production and conversion,0.3871466533145017,Oxygen (µmol/kg)
+Lipid metabolism,0.46819729065240207,Oxygen (µmol/kg)
+Cell wall/membrane/envelope biogenesis,0.21454026543002624,Nitrates (µmol/L)
+Cell motility,0.2251408628799852,Nitrates (µmol/L)
+Nucleotide metabolism and transport,0.34997312657529234,Nitrates (µmol/L)
+Secondary structure,0.4350205083331148,Nitrates (µmol/L)
+Lipid metabolism,0.22857807257320611,NO2 (µmol/L)
+Carbohydrate metabolism and transport,0.311647114037387,NO2 (µmol/L)
+Secondary structure,0.32060244321,NO2 (µmol/L)
+Cell cycle control and mitosis,0.4508257340160168,NO2 (µmol/L)
+Cell motility,0.1732976360413715,PO4 (µmol/L)
+Cell wall/membrane/envelope biogenesis,0.28752417769869565,PO4 (µmol/L)
+Nucleotide metabolism and transport,0.32282073062872746,PO4 (µmol/L)
+Secondary structure,0.46619644131755533,PO4 (µmol/L)
+Nucleotide metabolism and transport,0.24310877340708692,Environmental Feature
+Cell motility,0.3364147784879633,Environmental Feature
+Coenzyme metabolism,0.36415692087238916,Environmental Feature
+Cell wall/membrane/envelope biogenesis,0.38279978307457374,Environmental Feature
+Amino acid metabolism and transport,0.3182969303603135,Biome
+Secondary structure,0.33293388415364567,Biome
+Energy production and conversion,0.37296789169437317,Biome
+Transcription,0.4156219800634775,Biome
+Amino acid metabolism and transport,0.287502562361454,Region
+Nucleotide metabolism and transport,0.298379868784711,Region
+"Post-translational modification, protein turnover, chaperone functions",0.359759790433025,Region
+Translation,0.3616931660837746,Region

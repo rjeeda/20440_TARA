@@ -1,0 +1,241 @@
+Score,Model,Data
+0.15930835970463264,Latitude,Function
+0.38015515989543713,Latitude,Function
+0.33547127358121975,Latitude,Function
+0.1446272081390484,Latitude,Function
+-0.013305890339042614,Latitude,Function
+0.13506183477267697,Latitude,Function
+-0.3241669467871362,Latitude,Function
+0.03563491683411757,Latitude,Function
+0.18509953247214694,Latitude,Function
+0.25992355721014715,Latitude,Function
+0.4325408203535237,Latitude,Function
+0.2230628395589207,Latitude,Function
+0.276437076710218,Latitude,Function
+0.4856088086747613,Latitude,Function
+0.18076848635898313,Latitude,Function
+0.14110090644220907,Latitude,Function
+-0.1293025653429476,Latitude,Function
+0.05608608772232493,Latitude,Function
+0.46180193063021135,Latitude,Function
+0.2998480505155986,Latitude,Function
+-0.02016206922845254,Longitude,Function
+0.07419152530701734,Longitude,Function
+0.1690228387225572,Longitude,Function
+0.4626167017098508,Longitude,Function
+-0.0373585662822844,Longitude,Function
+0.11619933438810504,Longitude,Function
+0.2404628635977113,Longitude,Function
+0.2588606629060064,Longitude,Function
+0.09894866507429823,Longitude,Function
+-0.12477736266790718,Longitude,Function
+-0.1416098354334625,Longitude,Function
+0.08543503859353119,Longitude,Function
+0.037711840458976575,Longitude,Function
+0.22845867040468149,Longitude,Function
+0.15980339649277608,Longitude,Function
+0.36965215546295194,Longitude,Function
+0.38334390697773235,Longitude,Function
+0.35442569596071394,Longitude,Function
+0.45541575907220333,Longitude,Function
+0.07099353370838268,Longitude,Function
+0.8347783959309131,Depth (m),Function
+0.8211497828489633,Depth (m),Function
+0.6786851401021503,Depth (m),Function
+0.682134091444994,Depth (m),Function
+0.6434519755136527,Depth (m),Function
+0.72807852800664,Depth (m),Function
+0.8252604438401062,Depth (m),Function
+0.5160291640639131,Depth (m),Function
+0.7587479865311941,Depth (m),Function
+0.6073765506422437,Depth (m),Function
+0.5757477621879044,Depth (m),Function
+0.7310053632378923,Depth (m),Function
+0.48971581961133137,Depth (m),Function
+0.7141322763907656,Depth (m),Function
+0.7157375554226737,Depth (m),Function
+0.8893131142307986,Depth (m),Function
+0.843254090731242,Depth (m),Function
+0.7489899294864202,Depth (m),Function
+0.5618733577946653,Depth (m),Function
+0.8676780182788552,Depth (m),Function
+0.750097914182674,Temperature (°C),Function
+0.6823582985919573,Temperature (°C),Function
+0.7693024121618222,Temperature (°C),Function
+0.44587852121323335,Temperature (°C),Function
+0.8015045615913758,Temperature (°C),Function
+0.6755314315611051,Temperature (°C),Function
+0.747974531551341,Temperature (°C),Function
+0.7160795942963422,Temperature (°C),Function
+0.7332018354458244,Temperature (°C),Function
+0.7880035587373457,Temperature (°C),Function
+0.719055264698626,Temperature (°C),Function
+0.8342467855515957,Temperature (°C),Function
+0.7283225437305284,Temperature (°C),Function
+0.7943699246547091,Temperature (°C),Function
+0.8011428980573694,Temperature (°C),Function
+0.7557841285190167,Temperature (°C),Function
+0.8771316204787798,Temperature (°C),Function
+0.8504052913240708,Temperature (°C),Function
+0.754771622184109,Temperature (°C),Function
+0.778939638481326,Temperature (°C),Function
+0.1644228651540579,Salinity (PSU),Function
+0.4535406613292915,Salinity (PSU),Function
+0.4564630695692615,Salinity (PSU),Function
+-0.1625831304854879,Salinity (PSU),Function
+-0.05627633154108613,Salinity (PSU),Function
+0.039898724000491215,Salinity (PSU),Function
+0.4700275185003925,Salinity (PSU),Function
+-0.18211063415568884,Salinity (PSU),Function
+0.006049359767419382,Salinity (PSU),Function
+0.3462179357926297,Salinity (PSU),Function
+-0.040560362155585006,Salinity (PSU),Function
+0.1931104899749737,Salinity (PSU),Function
+0.3656957075255045,Salinity (PSU),Function
+0.294700824511517,Salinity (PSU),Function
+0.1504325245169561,Salinity (PSU),Function
+0.01123223376334015,Salinity (PSU),Function
+-0.23779555276792697,Salinity (PSU),Function
+0.19826912628454996,Salinity (PSU),Function
+-0.0033613982894573624,Salinity (PSU),Function
+0.2854295177930538,Salinity (PSU),Function
+0.3754127691825535,Oxygen (µmol/kg),Function
+0.17674649677731202,Oxygen (µmol/kg),Function
+-0.43399121629622983,Oxygen (µmol/kg),Function
+0.6910381197642206,Oxygen (µmol/kg),Function
+0.5112951182415186,Oxygen (µmol/kg),Function
+0.3607799167687229,Oxygen (µmol/kg),Function
+-0.12853485833079437,Oxygen (µmol/kg),Function
+0.4146825720088583,Oxygen (µmol/kg),Function
+0.246952595899537,Oxygen (µmol/kg),Function
+0.45041650737708194,Oxygen (µmol/kg),Function
+0.43699942118931046,Oxygen (µmol/kg),Function
+0.6253469622406401,Oxygen (µmol/kg),Function
+0.6038425169629211,Oxygen (µmol/kg),Function
+0.4877264450892359,Oxygen (µmol/kg),Function
+0.6654668599815303,Oxygen (µmol/kg),Function
+0.5480631324369127,Oxygen (µmol/kg),Function
+0.41305593519575434,Oxygen (µmol/kg),Function
+0.6630091991508154,Oxygen (µmol/kg),Function
+0.1187429280073985,Oxygen (µmol/kg),Function
+0.2576297304147829,Oxygen (µmol/kg),Function
+0.7396286134012019,Nitrates (µmol/L),Function
+0.6803547158744545,Nitrates (µmol/L),Function
+0.6953834871565052,Nitrates (µmol/L),Function
+0.6278472746025905,Nitrates (µmol/L),Function
+0.7630078369067603,Nitrates (µmol/L),Function
+0.6893681641516438,Nitrates (µmol/L),Function
+0.5572838048546869,Nitrates (µmol/L),Function
+0.6218986378570535,Nitrates (µmol/L),Function
+0.8190506264100091,Nitrates (µmol/L),Function
+0.6407985232066185,Nitrates (µmol/L),Function
+0.7355264357644777,Nitrates (µmol/L),Function
+0.6926106133259509,Nitrates (µmol/L),Function
+0.8523973662250774,Nitrates (µmol/L),Function
+0.8179720139179214,Nitrates (µmol/L),Function
+0.6794335615947029,Nitrates (µmol/L),Function
+0.7493927439895232,Nitrates (µmol/L),Function
+0.20265330332671994,Nitrates (µmol/L),Function
+0.7650575126732457,Nitrates (µmol/L),Function
+0.6881127794954645,Nitrates (µmol/L),Function
+0.6812544656364459,Nitrates (µmol/L),Function
+0.12061266131939097,NO2 (µmol/L),Function
+0.4500352894600145,NO2 (µmol/L),Function
+0.002733828334485766,NO2 (µmol/L),Function
+0.13695444632285236,NO2 (µmol/L),Function
+-0.08352505126226784,NO2 (µmol/L),Function
+-0.11720000475987447,NO2 (µmol/L),Function
+-0.8223934482232653,NO2 (µmol/L),Function
+0.21029456164024773,NO2 (µmol/L),Function
+0.410052359951828,NO2 (µmol/L),Function
+-0.06762194507373498,NO2 (µmol/L),Function
+0.2428557915479702,NO2 (µmol/L),Function
+-0.44786051910547586,NO2 (µmol/L),Function
+-2.8263022063653604,NO2 (µmol/L),Function
+0.0682808302620308,NO2 (µmol/L),Function
+-0.34194078645446524,NO2 (µmol/L),Function
+0.12517995700748097,NO2 (µmol/L),Function
+-4.390330026098313,NO2 (µmol/L),Function
+-0.34063314630309005,NO2 (µmol/L),Function
+-2.7850464115363285,NO2 (µmol/L),Function
+0.10636784155100021,NO2 (µmol/L),Function
+0.34158181764940343,PO4 (µmol/L),Function
+0.06781113697670571,PO4 (µmol/L),Function
+0.7671957517449552,PO4 (µmol/L),Function
+0.6816053182037292,PO4 (µmol/L),Function
+0.6717419051442679,PO4 (µmol/L),Function
+0.6107590448681538,PO4 (µmol/L),Function
+0.33616322459562376,PO4 (µmol/L),Function
+0.5679435984416114,PO4 (µmol/L),Function
+0.5697390246738188,PO4 (µmol/L),Function
+0.7542070696781071,PO4 (µmol/L),Function
+0.635257003871365,PO4 (µmol/L),Function
+0.7874386153760852,PO4 (µmol/L),Function
+0.05874067698833063,PO4 (µmol/L),Function
+-2.7546590387400154,PO4 (µmol/L),Function
+0.5747290647854282,PO4 (µmol/L),Function
+0.646863154555217,PO4 (µmol/L),Function
+-0.1983932906975312,PO4 (µmol/L),Function
+0.7899078518933562,PO4 (µmol/L),Function
+0.5372753849414311,PO4 (µmol/L),Function
+0.8539758600093439,PO4 (µmol/L),Function
+0.6666666666666666,Environmental Feature,Function
+0.6666666666666666,Environmental Feature,Function
+0.7619047619047619,Environmental Feature,Function
+0.6666666666666666,Environmental Feature,Function
+0.7619047619047619,Environmental Feature,Function
+0.47619047619047616,Environmental Feature,Function
+0.7619047619047619,Environmental Feature,Function
+0.7619047619047619,Environmental Feature,Function
+0.47619047619047616,Environmental Feature,Function
+0.8095238095238095,Environmental Feature,Function
+0.6190476190476191,Environmental Feature,Function
+0.7619047619047619,Environmental Feature,Function
+0.5238095238095238,Environmental Feature,Function
+0.7619047619047619,Environmental Feature,Function
+0.9047619047619048,Environmental Feature,Function
+0.7619047619047619,Environmental Feature,Function
+0.9047619047619048,Environmental Feature,Function
+0.6190476190476191,Environmental Feature,Function
+0.6666666666666666,Environmental Feature,Function
+0.7619047619047619,Environmental Feature,Function
+0.6666666666666666,Biome,Function
+0.6190476190476191,Biome,Function
+0.5238095238095238,Biome,Function
+0.6190476190476191,Biome,Function
+0.7142857142857143,Biome,Function
+0.5714285714285714,Biome,Function
+0.5714285714285714,Biome,Function
+0.5714285714285714,Biome,Function
+0.6666666666666666,Biome,Function
+0.6666666666666666,Biome,Function
+0.5238095238095238,Biome,Function
+0.7619047619047619,Biome,Function
+0.7619047619047619,Biome,Function
+0.5714285714285714,Biome,Function
+0.8095238095238095,Biome,Function
+0.6666666666666666,Biome,Function
+0.8095238095238095,Biome,Function
+0.47619047619047616,Biome,Function
+0.47619047619047616,Biome,Function
+0.6190476190476191,Biome,Function
+0.42857142857142855,Region,Function
+0.6190476190476191,Region,Function
+0.19047619047619047,Region,Function
+0.47619047619047616,Region,Function
+0.2857142857142857,Region,Function
+0.5714285714285714,Region,Function
+0.6190476190476191,Region,Function
+0.47619047619047616,Region,Function
+0.5238095238095238,Region,Function
+0.5238095238095238,Region,Function
+0.5238095238095238,Region,Function
+0.5238095238095238,Region,Function
+0.7142857142857143,Region,Function
+0.38095238095238093,Region,Function
+0.5238095238095238,Region,Function
+0.47619047619047616,Region,Function
+0.7619047619047619,Region,Function
+0.7142857142857143,Region,Function
+0.6190476190476191,Region,Function
+0.6190476190476191,Region,Function

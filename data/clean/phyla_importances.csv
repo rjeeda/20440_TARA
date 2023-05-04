@@ -1,0 +1,49 @@
+Phyla,p_value,Model
+Actinobacteria,0.20499200543728258,Latitude
+Fusobacteria,0.25240297743368434,Latitude
+Lentisphaerae,0.25663128077799563,Latitude
+Chloroflexi,0.33873774474389934,Latitude
+Bacteroidetes,0.006694521064193172,Longitude
+Chlorobi,0.2339899470669925,Longitude
+Lentisphaerae,0.209618194775258,Longitude
+Actinobacteria,0.31983411095112135,Longitude
+Thaumarchaeota,0.24398185803364492,Depth (m)
+Acidobacteria,0.2690080918841067,Depth (m)
+Candidate division BRC1,0.27024137262892217,Depth (m)
+Cyanobacteria,0.45655417275405596,Depth (m)
+Acidobacteria,0.22131450653162554,Temperature (°C)
+Chlorobi,0.20324860690739321,Temperature (°C)
+Bacteroidetes,0.24935487941243212,Temperature (°C)
+Nitrospirae,0.323762200571326,Temperature (°C)
+Tenericutes,0.2378980149024914,Salinity (PSU)
+Lentisphaerae,0.2094349597287516,Salinity (PSU)
+BD1-5,0.24961855298880903,Salinity (PSU)
+Bacteroidetes,0.27302104136527294,Salinity (PSU)
+Deferribacteres,0.05359751411879997,Oxygen (µmol/kg)
+Nitrospirae,0.3842839641072018,Oxygen (µmol/kg)
+Actinobacteria,0.2708652656245397,Oxygen (µmol/kg)
+Bacteroidetes,0.3659240700475235,Oxygen (µmol/kg)
+Acidobacteria,0.17049227435511688,Nitrates (µmol/L)
+Candidate division BRC1,0.25142986801579637,Nitrates (µmol/L)
+Cyanobacteria,0.38885670801339833,Nitrates (µmol/L)
+Bacteroidetes,0.3720131916601192,Nitrates (µmol/L)
+NPL-UPA2,0.33151803015747194,NO2 (µmol/L)
+Fusobacteria,0.30160540056667046,NO2 (µmol/L)
+Actinobacteria,0.2918863305348095,NO2 (µmol/L)
+Lentisphaerae,0.20167757973996736,NO2 (µmol/L)
+Acidobacteria,0.16457807720723006,PO4 (µmol/L)
+Candidate division BRC1,0.2914015549254096,PO4 (µmol/L)
+Cyanobacteria,0.35062182180815776,PO4 (µmol/L)
+Bacteroidetes,0.2958426948358319,PO4 (µmol/L)
+Acidobacteria,0.30263801247012956,Environmental Feature
+Deferribacteres,0.2992940828921012,Environmental Feature
+Thaumarchaeota,0.31734809626788874,Environmental Feature
+Cyanobacteria,0.32209900190423024,Environmental Feature
+Firmicutes,0.26676137914862375,Biome
+Verrucomicrobia,0.26848535739631163,Biome
+Lentisphaerae,0.2771094425768653,Biome
+Bacteroidetes,0.30448396793636445,Biome
+Bacteroidetes,0.17346707523657084,Region
+Cyanobacteria,0.23585674632819575,Region
+Actinobacteria,0.2475932329796498,Region
+Firmicutes,0.24580774374485181,Region
