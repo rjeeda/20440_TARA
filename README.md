@@ -14,8 +14,11 @@ Citation: "Structure and function of the global ocean microbiome" by Sunagawa, C
 
 ## Required downloads:
 Files too large to be uploaded to this repository can be downloaded from the Tara Oceans companion website at [ocean-microbiome.embl.de/companion.html](http://ocean-microbiome.embl.de/companion.html). The files required for this analysis are:
+
 ```Companion Website Tables W1-W8```, a spreadsheet file containing multiple types of metadata
+
 ```annotated 16S OTU count table```, containing OTU counts summarized at different taxonomic levels for prokaryote-enriched samples (N=139)
+
 ```eggNOG OG profile (prokaryotic only)```, a table of eggNOG gene family abundances for prokaryote-enriched samples (N=139)
     
 
