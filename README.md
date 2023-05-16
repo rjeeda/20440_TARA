@@ -29,21 +29,41 @@ Files too large to be uploaded to this repository can be downloaded from the Tar
 ├── data
 │   ├── raw: datasets as downloaded from the Tara Oceans paper companion website
 │   └── clean: renamed datasets saved in .csv format and outputs of analysis code
-├── plots
-│   └── figure_1: subplots for Figure 1
-│   └── figure_2: subplots for Figure 2
-│   └── figure_3: subplots for Figure 3
-│   └── figure_4: subplots for Figure 4
-│   └── figure_S1: subplots for Figure S1
-│   └── other: all other plots generated from data not included in the main write-up
-├── plotting_scripts
-│   └── figure_1: Jupyter notebooks for Figure 1 analysis
-│   └── figure_2: Jupyter notebooks for Figure 2 analysis
-│   └── figure_3: Jupyter notebooks for Figure 3 analysis
-│   └── figure_4: Jupyter notebooks for Figure 4 analysis
-│   └── figure_S1: Jupyter notebooks for Figure S1 analysis
+├── plots: subplots generated for each figure
+│   └── figure_1
+│   └── figure_2
+│      └── scatter: scatterplots of Random Forest regressors for each type of input data
+│            └── OTU
+│            └── OG
+│            └── phyla
+│            └── function
+│      └── confusion: confusion matrices of Random Forest classifiers for each type of input data
+│            └── OTU
+│            └── OG
+│            └── phyla
+│            └── function
+│   └── figure_3
+│   └── figure_4
+│      └── important_trends: top trends (relative abundance vs environmental variable) of interest
+│      └── importances_regr: top feature importances for Random Forest regressors for each type of input data
+│            └── OTU
+│            └── OG
+│            └── phyla
+│            └── function
+│      └── importances_rfc: top feature importances for Random Forest classifiers for each type of input data
+│            └── OTU
+│            └── OG
+│            └── phyla
+│            └── function
+│   └── figure_S1
+├── plotting_scripts: Jupyter notebooks for analysis and plotting done for each figure
+│   └── figure_1_3
+│   └── figure_2
+│      └── random_forest_models: Jupyter notebooks for running the Random Forest models
+│   └── figure_4
+│   └── figure_S1
 │   └── other: all other plotting scripts, such as exploratory data analysis
-└── processing_scripts: all other scripts used to process data
+└── processing_scripts: scripts used to create clean relative abundance tables with metadata
  ```
  
 ## Installation:
@@ -53,11 +73,27 @@ The following packages should be installed for running both the plotting scripts
 ```
 python==3.8.11 
 
-biom_format==2.1.14
+biom_format==2.1.15
 
 bokeh==2.3.3
 
+cmocean==3.0.3
+
+holoviews==1.14.6
+
+iqplot==0.2.3
+
+matplotlib==3.4.2
+
 numpy==1.22.4
 
-pandas==1.3.2
+pandas==1.3.3
+
+scikit_bio==0.5.8
+
+scikit_learn==0.24.2
+
+scipy==1.7.1
+
+seaborn==0.11.2
 ```
